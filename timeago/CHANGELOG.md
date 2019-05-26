@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.0.16
+- Add Vietnamese locale thanks to @luantranminh 
+- Fix nl message thanks to @soowa
+
+## 2.0.15
+- Add Tamil locale thanks to @Purus
+- Fix Arabic wording thanks to @salehahmedZ
+- Fix Portuguese prefix and suffix thanks to @DoodlesEpic
+
 ## 2.0.14
 - Add Korean locale thanks to @jaceshim
 
